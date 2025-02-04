@@ -1,0 +1,14 @@
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\bin\Debug\net8.0\ExerciciosPWBE.exe
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\bin\Debug\net8.0\ExerciciosPWBE.deps.json
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\bin\Debug\net8.0\ExerciciosPWBE.runtimeconfig.json
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\bin\Debug\net8.0\ExerciciosPWBE.dll
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\bin\Debug\net8.0\ExerciciosPWBE.pdb
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.AssemblyInfo.cs
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.dll
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\refint\ExerciciosPWBE.dll
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.pdb
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ExerciciosPWBE.genruntimeconfig.cache
+C:\Users\aluno\Documents\Filipi Miranda\PWBE\ExerciciosPWBE\ExerciciosPWBE\obj\Debug\net8.0\ref\ExerciciosPWBE.dll
